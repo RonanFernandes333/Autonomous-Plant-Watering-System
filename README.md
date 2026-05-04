@@ -3,6 +3,8 @@
 
 ## About the Project
 This project is an autonomous electromechanical system designed to continuously monitor soil moisture levels and water plants automatically without human intervention. 
+## System Demonstration
+[Click here to watch the Automated Plant Watering System in action](https://youtu.be/lXErV_cJCRg?si=LIFu6IZGwbf-jMrd)
 
 By combining physical sensors, software logic, and actuators, this system ensures plants are watered accurately based on real-time data. It eliminates human error (such as over-watering or under-watering) and provides a practical, hands-free solution for plant care. Built with system-integration and computational thinking in mind, this project serves as a foundational application for building larger autonomous systems.
 
