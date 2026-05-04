@@ -1,14 +1,9 @@
-package EECS_1021.Unit_Test_Files;
+package irrigation.Unit_Test_Files;
 
-import EECS_1021.Hardware.Potentiometer;
-import EECS_1021.Pins.Pins;
-import org.firmata4j.I2CDevice;
-import org.firmata4j.Pin;
+import irrigation.Hardware.Potentiometer;
 import org.firmata4j.firmata.FirmataDevice;
-import org.firmata4j.ssd1306.SSD1306;
 
 import java.io.IOException;
-import java.util.Timer;
 
 public class PotTest {
     public static void main(String[] args) throws InterruptedException, IOException {

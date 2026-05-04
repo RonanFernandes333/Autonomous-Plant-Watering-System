@@ -1,4 +1,4 @@
-package EECS_1021.Graph; // Adjust package name as needed
+package irrigation.Graph; // Adjust package name as needed
 
 import edu.princeton.cs.introcs.StdDraw;
 

@@ -1,6 +1,6 @@
-package EECS_1021.Hardware;
+package irrigation.Hardware;
 
-import EECS_1021.Pins.Pins;
+import irrigation.Pins.Pins;
 import org.firmata4j.IODevice;
 import org.firmata4j.Pin;
 

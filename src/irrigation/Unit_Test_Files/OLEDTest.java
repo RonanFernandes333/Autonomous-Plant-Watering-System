@@ -1,4 +1,4 @@
-package EECS_1021.Unit_Test_Files;
+package irrigation.Unit_Test_Files;
 
 import org.firmata4j.firmata.FirmataDevice;
 import org.firmata4j.IODevice;

@@ -1,12 +1,10 @@
-package EECS_1021.Clock;
+package irrigation.Clock;
 
-import EECS_1021.Hardware.OLED;
-import EECS_1021.Hardware.Potentiometer;
+import irrigation.Hardware.OLED;
+import irrigation.Hardware.Potentiometer;
 import org.firmata4j.IODevice;
-import org.firmata4j.Pin;
 
 import java.io.IOException;
-import java.util.Timer;
 import java.util.TimerTask;
 
 public class PotTask extends TimerTask {

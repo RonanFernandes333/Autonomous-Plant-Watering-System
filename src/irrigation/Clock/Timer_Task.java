@@ -1,7 +1,7 @@
-package EECS_1021.Clock;
-import EECS_1021.Hardware.MoistureSensor;
-import EECS_1021.Hardware.OLED;
-import EECS_1021.Hardware.WaterPump;
+package irrigation.Clock;
+import irrigation.Hardware.MoistureSensor;
+import irrigation.Hardware.OLED;
+import irrigation.Hardware.WaterPump;
 import org.firmata4j.IODevice;
 
 import java.io.IOException;

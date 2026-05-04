@@ -1,7 +1,7 @@
-package EECS_1021.Unit_Test_Files;
+package irrigation.Unit_Test_Files;
 
 
-import EECS_1021.Hardware.OLED;
+import irrigation.Hardware.OLED;
 import org.firmata4j.IODevice;
 import org.firmata4j.firmata.FirmataDevice;
 

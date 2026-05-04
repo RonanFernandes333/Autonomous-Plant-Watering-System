@@ -1,10 +1,10 @@
-package EECS_1021.Main;
+package irrigation.Main;
 
-import EECS_1021.Clock.PotTask;
-import EECS_1021.Clock.Timer_Task;
-import EECS_1021.Graph.PlotGraph;
-import EECS_1021.Hardware.EMERGENCY_Button;
-import EECS_1021.Hardware.OLED;
+import irrigation.Clock.PotTask;
+import irrigation.Clock.Timer_Task;
+import irrigation.Graph.PlotGraph;
+import irrigation.Hardware.EMERGENCY_Button;
+import irrigation.Hardware.OLED;
 import org.firmata4j.*;
 import org.firmata4j.firmata.FirmataDevice;
 
