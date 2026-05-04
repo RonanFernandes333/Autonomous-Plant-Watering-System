@@ -1,4 +1,5 @@
 # Automated Plant Watering System 
+<img width="925" height="697" alt="image" src="https://github.com/user-attachments/assets/0f23b364-6726-425e-81f8-9cb3b578fc76" />
 
 ## About the Project
 This project is an autonomous electromechanical system designed to continuously monitor soil moisture levels and water plants automatically without human intervention. 
